@@ -114,5 +114,5 @@ Tenho desenvolvido projetos para praticar programação e desenvolvimento web, i
 ---
 
 <p align="left">
-  📫 Me encontre no <a href="https://github.com/hannaparente767">GitHub</a>
+  📫 Me encontre no <a https://www.linkedin.com/in/hanna-parente-b8b144351/>Linkedin</a>
 </p>
