@@ -1,4 +1,4 @@
-<h1 align="left">Hanna Parente </h1>
+<h1 align="left">Hanna Parente</h1>
 
 <p align="left">
     <a href="https://github.com/hannaparente767?tab=repositories&sort=stargazers">
@@ -114,5 +114,5 @@ Tenho desenvolvido projetos para praticar programação e desenvolvimento web, i
 ---
 
 <p align="left">
-  📫 Me encontre no <a https://www.linkedin.com/in/hanna-parente-b8b144351/>Linkedin</a>
+  📫 Me encontre no <a href="https://www.linkedin.com/in/hanna-parente-b8b144351"/>Linkedin</a>
 </p>
